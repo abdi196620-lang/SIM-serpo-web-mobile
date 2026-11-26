@@ -1,0 +1,6 @@
+{
+  "name": "SIM Serpo Backoffice",
+  "description": "Sistem informasi manajemen operasional teknisi lapangan, absensi geofence, anggaran basecamp, pengajuan dana berjenjang, dan rekonsiliasi keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
